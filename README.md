@@ -1,2 +1,2 @@
 # python-ex
-repo. for learning python
+repo. for learning python3
