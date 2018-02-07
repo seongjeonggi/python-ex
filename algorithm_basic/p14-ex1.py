@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Sequential search (3)
+# Dictionary search
 # input: 
 #		a: dictionary of student's no.(key) and name(value)
 #		x: student's number to search
