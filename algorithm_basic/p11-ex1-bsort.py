@@ -21,7 +21,7 @@ import sys
 import random as r
 
 if len(sys.argv) != 2:
-	print("usage: $ py %s <list size>" % sys.argv[0])
+	print("usage: $ pyhon3 %s <list size>" % sys.argv[0])
 	sys.exit()
 n = int(sys.argv[1])
 
