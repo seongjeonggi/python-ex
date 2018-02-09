@@ -4,7 +4,7 @@
 # input: g: graph of friend relationship, start: start vertex.
 # output: all vertexes.
 
-def print_all_nodes(g, start):
+def print_all_nodes(g, start):	# a.k.a. BFS(Breadth first search)
 
 	qu = []
 	done = set()
